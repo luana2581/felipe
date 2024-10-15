@@ -10,14 +10,15 @@ criaCartao(
     'A capital da Russia é Mouscou'
 )
 
-ciraCartao(
+criaCartao(
     'matematica',
     'Qual é o resultado de 9 x 9?',
     'O resultado é 81'
 )
 
 criaCartao(
-    'Curiosidades inuteis',
-    'Precisa das 3 primeiras gerações para completar a pokedex?',
-    'Sim'
+    'Curiosidade que você já sabe',
+    'você pode usar álcool para limar coisas?',
+    'sim'
+    
 )
